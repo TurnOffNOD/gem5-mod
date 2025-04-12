@@ -3,5 +3,6 @@
         "src/python",
         "ext",
         "tests"
-    ]
+    ],
+    "cmake.ignoreCMakeListsMissing": true
 }
